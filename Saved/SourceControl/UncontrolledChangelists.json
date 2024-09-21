@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Lemon/Documents/Unreal Projects/Fighter/Content/Player/Input/IMC_Gaea.uasset",
+				"C:/Users/Lemon/Documents/Unreal Projects/Fighter/Content/Level.umap",
+				"C:/Users/Lemon/Documents/Unreal Projects/Fighter/Content/Player/BP_GAEA1.uasset",
+				"C:/Users/Lemon/Documents/Unreal Projects/Fighter/Content/Player/base_mesh.uasset",
+				"C:/Users/Lemon/Documents/Unreal Projects/Fighter/Content/Player/Input/Actions/IA_Look.uasset",
+				"C:/Users/Lemon/Documents/Unreal Projects/Fighter/Content/Player/Input/Actions/IA_Crouch.uasset"
+			]
+		}
+	]
+}
